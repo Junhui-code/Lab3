@@ -1,4 +1,4 @@
-from Lab2 import BMI
+from ET0735_Lab2 import BMI
 
 def test_bmi_normal_weight():
     assert (BMI.calculate_bmi(70, 1.75) == 0)
