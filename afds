@@ -1,0 +1,151 @@
+[33mcommit 2aeacb2e32acc2112844867b097f92e38079de38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: alalajkl <wangjunhui52121314@gmail.com>
+Date:   Fri May 9 15:15:12 2025 +0800
+
+    gitignore file added
+
+[33mcommit bf3a3379089692b1beda199fb7b1a5b240843c56[m
+Author: alalajkl <wangjunhui52121314@gmail.com>
+Date:   Fri May 9 15:07:44 2025 +0800
+
+    BMI test successful
+
+[33mcommit 55ca6c3e6690c04bf13f509c88201048d69a9e9b[m
+Author: alalajkl <wangjunhui52121314@gmail.com>
+Date:   Fri May 9 14:57:14 2025 +0800
+
+    add Lab2 again
+
+[33mcommit 8c96cf8916802781638a3dbf4631155c04adafe6[m
+Author: alalajkl <wangjunhui52121314@gmail.com>
+Date:   Fri May 9 14:54:27 2025 +0800
+
+    restart
+
+[33mcommit 9c21a48ff16d86627aea7546119392776c7c2b6f[m
+Author: alalajkl <wangjunhui52121314@gmail.com>
+Date:   Fri May 9 14:53:12 2025 +0800
+
+    Lab2 submodule added
+
+[33mcommit 317cf3747059c6dd4cafdbedb8308e24b0355b73[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Mon May 5 10:59:17 2025 +0800
+
+    add employee_info
+
+[33mcommit 64f8d3bd12ca9023858cce646f996ab84d1b2758[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Wed Apr 16 17:05:47 2025 +0800
+
+    remove employee_info
+
+[33mcommit a249d90c24f579bab98f5697a8526b9eb38f8113[m
+Author: mdilyasf <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Wed Nov 6 17:37:45 2024 +0800
+
+    change file name to test_Lab3.py
+
+[33mcommit 26fb03d021658f2ff71c6fe6f494dba6e9ff907f[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Sun Apr 28 08:45:39 2024 +0800
+
+    remove pycharm IDE files.
+
+[33mcommit 7b12c7a8ddacab5396222153ff368c3ecae80c0a[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Sat Apr 27 22:02:35 2024 +0800
+
+    correct the comment from ascending to descending.
+
+[33mcommit 992c26b5afb8ea49ad4319b8dc65699f61d217c5[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Mon Oct 30 06:25:46 2023 +0800
+
+    remove files not needed for lab3 exercise.
+
+[33mcommit 76aeb4053f92c3968fd1dd141d747f8c56584fa9[m
+Author: Kwee Teck <tan_kwee_teck@ichat.sp.edu.sg>
+Date:   Mon Oct 30 01:44:18 2023 +0800
+
+    Added Test_bmi.py
+
+[33mcommit 680d1a7ab2d165fd1740143d8dca2ee3f0c911e5[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Mon May 1 18:06:35 2023 +0800
+
+    add price_info.py for exercise 4.
+
+[33mcommit d36600d48d405df39f04fc88c9e11b2692af8436[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Thu Apr 27 16:22:17 2023 +0800
+
+    changed comments
+
+[33mcommit 0dd59445ba46e221ca8a7f9053a5096ab2d4893a[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Thu Apr 27 16:20:47 2023 +0800
+
+    employee_info for exercise 4
+
+[33mcommit 39763e998240e63d991140db5d0536c32270adad[m
+Author: ilyas <mohamed_ilyas_fakrudeen_abdul_salam@sp.edu.sg>
+Date:   Wed Apr 26 23:37:58 2023 +0800
+
+    remove changes.
+
+[33mcommit acf0f59c921e669c3215541558315af4288c474b[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:39:30 2022 +0800
+
+    Rename Readme to Readme.md
+
+[33mcommit 3534e242d14082d0b4e6d0d6be427f6167f21ce7[m
+Author: chris-sherman-sp <85285506+chris-sherman-sp@users.noreply.github.com>
+Date:   Wed Mar 23 16:32:08 2022 +0800
+
+    Rename Readme to README
+    
+    Rename Readme file
+
+[33mcommit e4c196b69947cbc3d4c05a47efd1a0a841818436[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:36:46 2022 +0800
+
+    Rename Readme to README
+
+[33mcommit 6312636344f00bf2b89039393e6a5e6319935034[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:34:34 2022 +0800
+
+    Update Readme file to H1 header
+
+[33mcommit 0476f39687dc49006d37ab487ce5fc77d409f608[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Wed Mar 23 16:33:18 2022 +0800
+
+    Add Readme file for Lab 3
+
+[33mcommit 324c72853155f45c9e285afc03772cce280f60a5[m
+Author: Chris Sherman <isa_christopher_sherman@ichat.sp.edu.sg>
+Date:   Thu Mar 10 09:21:27 2022 +0800
+
+    Fix result issue
+
+[33mcommit 40d462efdf54181dd6da995405cb9f735e1f859a[m
+Author: Chris <christopher.sherman.isa@gmail.com>
+Date:   Mon Jan 3 18:07:34 2022 +0800
+
+    Add PyTest test cases for Lab 3
+
+[33mcommit cb6ed5ee996fd9e292cf1acf76eeab644628f2a6[m
+Author: Chris <christopher.sherman.isa@gmail.com>
+Date:   Mon Jan 3 11:37:32 2022 +0800
+
+    Add PyTest file
+
+[33mcommit da154cc2b433a423a60fddc559eea3f230b67a06[m
+Author: Christopher Sherman <christopher.sherman.isa@gmail.com>
+Date:   Thu Dec 30 16:23:14 2021 +0800
+
+    Initial Revision
